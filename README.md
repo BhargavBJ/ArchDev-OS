@@ -27,8 +27,9 @@ It comes as a **VirtualBox appliance (OVA)** that can be imported and run instan
 
 ## 🖥️ Download
 
-➡️ [**Download ArchDev.ova (Google Drive)**](#)  
-*(Link will be added soon)*
+➡️ [**Download ArchDev.ova (Google Drive)**]  
+[*Link*](https://drive.google.com/file/d/17qj4PfegcNv3WV8ycHboByL0n6YU7WQr/view?usp=sharing)
+
 
 ### Import Instructions
 1. Open **VirtualBox**
@@ -36,8 +37,10 @@ It comes as a **VirtualBox appliance (OVA)** that can be imported and run instan
 3. Select `ArchDev.ova`
 4. Start the VM
 5. Log in and begin coding — everything’s ready to go 🎉
+6. 
+## Follow the same steps to initialize Arch OS from scratch when Imported from the device after downloading the .ova file
 
----
+
 
 ## 🧩 System Info
 
