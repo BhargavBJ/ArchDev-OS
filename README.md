@@ -41,6 +41,12 @@ It comes as a **VirtualBox appliance (OVA)** that can be imported and run instan
 ## Follow the same steps to initialize Arch OS from scratch when Imported from the device after downloading the .ova file
 
 
+# Another way to use this ova file without using g-link:
+- Clone this repo, and open it in a folder where you store VM's and it's information.
+- In the ArchDev folder click on ArchDev.part0001.rar and extract it into a location.
+- It'll Automatically extract all the parts and give the complete stable *.ova* file
+- Then you can import the *.ova* file into virtualbox and you will have a coding ready Operating System, where you can experiment all sort of code
+
 
 ## 🧩 System Info
 
