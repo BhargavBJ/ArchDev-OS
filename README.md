@@ -37,7 +37,6 @@ It comes as a **VirtualBox appliance (OVA)** that can be imported and run instan
 3. Select `ArchDev.ova`
 4. Start the VM
 5. Log in and begin coding — everything’s ready to go 🎉
-6. 
 ## Follow the same steps to initialize Arch OS from scratch when Imported from the device after downloading the .ova file
 
 
