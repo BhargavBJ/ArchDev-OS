@@ -56,7 +56,6 @@ It comes as a **VirtualBox appliance (OVA)** that can be imported and run instan
 🧾 License
 This project is licensed under the MIT License — see LICENSE for details.
 
-🪪 Credits
-Created with ❤️ by Bhargav
+🪪 Created by Bhargav
 ---
 * A developer-focused Arch Linux that just works.
